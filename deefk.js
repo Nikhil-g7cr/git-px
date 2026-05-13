@@ -4,4 +4,6 @@ const nameToUpperCase = (name)=>{
     return name[0].toUpperCase() + name.slice(1);
 }
 
-console.log(nameToUpperCase("ujjwal"))
+
+//made changes to the deepak name to deefk
+console.log(nameToUpperCase("deefk"))
